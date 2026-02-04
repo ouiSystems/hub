@@ -15,7 +15,7 @@ It's based on Joomla and it's powerfull ACL System
 
 # How To
 
-# Online Demo
+# Check if it could be a good fit for you : Online Demo
 
 
 
