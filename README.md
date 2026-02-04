@@ -15,10 +15,14 @@ It's based on Joomla and it's powerfull ACL System
 
 # How To install it ?
 
+## On your server
+
 You'll need a php server and a db with credentials, and then you're ready to. Dowload the installer file. Upload it to your server, call it.
 An archive will download and then follow instructions.
 
 ## Try the Oui Instance
+
+You can run you own instance on our servers. Have a try, and you'll support the project by the way.
 
 # Check if it could be a good fit for you : Online Demo
 
