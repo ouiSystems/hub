@@ -8,6 +8,15 @@ The hub is a collection of components working all together to suit small and mid
 It's aimed to be a small eco-system to facilitate work between people (team mates and customers).
 It's based on Joomla and it's powerfull ACL System
 
+## ouiWork
+https://github.com/ouiSystems/ouiWork
+
+## ouiHumans
+https://github.com/ouiSystems/ouiHumans
+
+## ouiInteractions
+https://github.com/ouiSystems/ouiInteractions
+
 # Requirements
 
 - PHP 8.2
