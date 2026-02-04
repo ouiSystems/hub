@@ -13,7 +13,12 @@ It's based on Joomla and it's powerfull ACL System
 - PHP 8.2
 - Maria DB
 
-# How To
+# How To install it ?
+
+You'll need a php server and a db with credentials, and then you're ready to. Dowload the installer file. Upload it to your server, call it.
+An archive will download and then follow instructions.
+
+## Try the Oui Instance
 
 # Check if it could be a good fit for you : Online Demo
 
