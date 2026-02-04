@@ -4,10 +4,19 @@
 
 # What is it ?
 
+The hub is a collection of components working all together to suit small and mid-size companies.
+It's aimed to be a small eco-system to facilitate work between people (team mates and customers).
+It's based on Joomla and it's powerfull ACL System
+
 # Requirements
+
+- PHP 8.2
+- Maria DB
 
 # How To
 
 # Online Demo
+
+
 
 
